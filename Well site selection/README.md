@@ -7,7 +7,7 @@ We need to decide where to drill a new well.
 * Choose the wells with the highest value estimates;
 * The region with the maximum total profit of the selected wells is determined.
 
-We have oil samples in three regions. The characteristics for each well in the region are already known. We will build a model to determine the region where mining will bring the greatest profit. Let's analyze the possible profit and risks using the Bootstrap technique.
+We have oil samples in three regions. The characteristics for each well in the region are already known. We will build a model to determine the region where oil production will bring the greatest profit. Let's analyze the possible profit and risks using the Bootstrap technique.
 
 ## Data Description:
 - id - the unique identifier of the well;
