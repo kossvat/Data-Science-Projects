@@ -29,4 +29,4 @@ In all files, the `customerID` column contains the customer ID.
 Information on contracts is current as of February 1, 2020.
 
 # Libraries used:
-Pandas, Numpy, Seaborn, Plotly, Matplotlib, Scikit-learn, CatBoost, LightGBM
+Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, LightGBM
